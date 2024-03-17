@@ -1,1 +1,25 @@
 
+body {
+background-color: #e5e5d2;
+  }
+
+
+div#topHeader{
+padding-bottom: 100px;
+}
+h1{
+  font-size: 200px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div#MainContainer {
+  height: 100%;
+  background-color: rgb(249, 249, 249);
+  border: 1px solid #000;
+  background-image:sheap jpeg;
+}
+div#thing1container{
+font-size: 100px;
+color: black;
+}
